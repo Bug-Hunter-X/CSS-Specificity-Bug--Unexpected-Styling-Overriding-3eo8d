@@ -1,0 +1,16 @@
+/* bugSolution.css */
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+#myDiv {
+  background-color: lightblue;
+  /* Increased specificity to override the general rule */
+}
+
+.myClass {
+  color: darkblue;
+}
+
+/* Add more specific styles as needed */
